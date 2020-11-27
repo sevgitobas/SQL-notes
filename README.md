@@ -1,5 +1,5 @@
 # SQL-notes
-**KISA KISA SQL NOTLARI**
+
 
 Oracle'da _pl-sql_, Windows'da _transact-sql_ kullanılır. _Use_ deyip _master_ kısmını daha önceden isim verdiğimiz etrade ile kullanıp çalıştırmaya başlıyoruz.
 
